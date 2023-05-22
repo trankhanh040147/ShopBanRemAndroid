@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="blocksDescendants">
+
+    <ImageView
+        android:id="@+id/imgeViewAdProductImage"
+        android:layout_width="218dp"
+        android:layout_height="203dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="91dp"
+        android:layout_marginTop="27dp"
+        android:layout_marginEnd="102dp" />
+
+    <TextView
+        android:id="@+id/txt_row_show_idProductImage"
+        android:layout_width="65dp"
+        android:layout_height="49dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="108dp"
+        android:layout_marginEnd="335dp"
+        android:gravity="center"
+        android:text="Id Product Img"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txt_row_show_proIdProductImage"
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="321dp"
+        android:layout_marginTop="116dp"
+        android:layout_marginEnd="15dp"
+
+        android:text="Value"
+        android:textSize="20dp" />
+
+
+</RelativeLayout>

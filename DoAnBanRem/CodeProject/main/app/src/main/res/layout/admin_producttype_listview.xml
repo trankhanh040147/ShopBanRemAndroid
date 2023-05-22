@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="blocksDescendants">
+
+    <ImageView
+        android:id="@+id/imgeViewAdProductType"
+        android:layout_width="217dp"
+        android:layout_height="164dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="81dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="113dp" />
+
+    <TextView
+        android:id="@+id/txt_row_show_idDiscount"
+        android:layout_width="61dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="9dp"
+        android:layout_marginTop="80dp"
+        android:gravity="center"
+        android:text="Id Discount"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/txt_row_show_valueDiscount"
+        android:layout_width="100dp"
+        android:layout_height="93dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="72dp"
+        android:layout_marginEnd="6dp"
+        android:text="Value Discount"
+        android:textSize="20dp" />
+
+
+</RelativeLayout>

@@ -1,0 +1,3 @@
+id,username,email,password,roleId,status
+1,admin,admin@student.hcmute.edu.vn,MTIzNA,1,active
+2,nhmt,ngotienhoang09@gmail.com,MTIzNA,2,active

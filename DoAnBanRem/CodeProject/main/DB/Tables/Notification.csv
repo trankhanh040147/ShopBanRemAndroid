@@ -1,0 +1,5 @@
+id,userId,type,message,status
+1,2,Cart,Bạn có đơn hàng chưa thanh toán.,Unread
+2,2,Sale,"Chào Lễ lớn, Đón khuyến mãi to cùng VietShop",Unread
+3,2,Guide,Hướng dẫn sử dụng ứng dụng cho người dùng lần đầu đăng ký tài khoản.,Unread
+4,2,Account,Đăng nhập ngay để trải nghiệm những tiện ích dành riêng cho bạn.,Unread

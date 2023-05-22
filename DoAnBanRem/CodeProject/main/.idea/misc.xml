@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable-v24/bg_gray_corner_16.xml" value="0.1935" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2335" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/arrow_back.xml" value="0.308" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/background_product_icon.xml" value="0.2335" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/bg_blue_corner_16.xml" value="0.1935" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/bg_blue_corner_16_top_left_top_right.xml" value="0.1935" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/bg_green_corner_16.xml" value="0.3635" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/bg_white_corner_16.xml" value="0.2335" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/celebration.xml" value="0.2335" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/check.xml" value="0.2335" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/chevron_right.xml" value="0.2335" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/discount_value.xml" value="0.2335" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/email.xml" value="0.2335" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/food.xml" value="0.2335" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/heart.xml" value="0.2335" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/home.xml" value="0.1935" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.2335" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/ic_baseline_shop_2_100.xml" value="0.2335" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2335" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/ic_location.xml" value="0.2335" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/ic_settings.xml" value="0.2335" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/input_field.xml" value="0.2335" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/message.xml" value="0.2335" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/password.xml" value="0.2335" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/phone.xml" value="0.2335" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/search.xml" value="0.1935" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/service.xml" value="0.1935" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/text_field.xml" value="0.1935" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/up_down.xml" value="0.1935" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/vouncher.xml" value="0.1935" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/drawable/zalo.xml" value="0.2335" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/account_settings.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/activity_account_info.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/activity_admin_discount.xml" value="0.15942028985507245" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/activity_admin_product.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/activity_admin_product_type.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/activity_admin_store.xml" value="0.15942028985507245" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/activity_dash_board.xml" value="0.19701086956521738" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/activity_email_password.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/activity_product_image.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/activity_search.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/activity_show_ad_discount.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/activity_show_ad_pro_type.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/activity_show_ad_product.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/activity_show_ad_role.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/activity_show_ad_store.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/admin_discount_listview.xml" value="0.15942028985507245" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/admin_product_listview.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/admin_productimg_listview.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/admin_producttype_listview.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/admin_role_listview.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/admin_store_listview.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/bill_item.xml" value="0.3625" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/cart_detail.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/fragment_discount.xml" value="0.20224719101123595" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/fragment_home.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/fragment_menu.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/fragment_message_box.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/fragment_notification.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/login.xml" value="0.3625" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/menu_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/notify_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/1D/HocTap/AndroidStudio/new/1/test/app/src/main/res/layout/payment_resource.xml" value="0.1" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/drawable/circle_blue.xml" value="0.1445" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/drawable/circle_gray.xml" value="0.192" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/drawable/circle_green.xml" value="0.1405" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/drawable/circle_orange.xml" value="0.192" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/drawable/circle_pink.xml" value="0.192" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/drawable/circle_puple.xml" value="0.192" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/drawable/circle_yellow.xml" value="0.192" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/drawable/radius_header.xml" value="0.1445" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/account_settings.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_account_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_admin_discount.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_admin_product.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_admin_product_type.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_admin_role.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_admin_show_pro_img.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_admin_store.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_bar_chart.xml" value="0.20153985507246377" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_dash_board.xml" value="0.2" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_email_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_product_image.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_show_ad_discount.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_show_ad_pro_type.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_show_ad_product.xml" value="0.264" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_show_ad_role.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_show_ad_store.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_show_ad_user.xml" value="0.24010416666666667" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_show_payment.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/activity_static.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/admin_discount_listview.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/admin_payment_listview.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/admin_product_listview.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/admin_productimg_listview.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/admin_producttype_listview.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/admin_store_listview.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/admin_user_listview.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/bill_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/bill_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/cart_detail.xml" value="0.264" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/cart_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/dropdown_spinner.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/feature_change_language.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/feature_help.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/forgot_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/fragment_cart.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/fragment_discount.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/fragment_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/fragment_message_box.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/fragment_notification.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/login.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/menu_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/notify_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/payment_resource.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/product.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/product_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/product_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/CuoiKi/test/app/src/main/res/layout/test.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/drawable-v24/ic_add.xml" value="0.2355" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/drawable/arrow_back.xml" value="0.2355" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/drawable/ic_account.xml" value="0.2355" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/drawable/ic_add.xml" value="0.2355" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/account_settings.xml" value="0.264" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/activity_account_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/activity_admin_discount.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/activity_admin_show_pro_img.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/activity_email_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/activity_product_image.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/activity_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/activity_show_ad_product.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/activity_show_ad_store.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/admin_productimg_listview.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/admin_producttype_listview.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/admin_role_listview.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/admin_store_listview.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/bill_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/dropdown_spinner.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/feature_change_language.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/fragment_cart.xml" value="0.2" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/fragment_discount.xml" value="0.264" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/fragment_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/fragment_message_box.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/fragment_notification.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/ic_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/menu_item.xml" value="0.2" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/notify_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/product_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ProjectCK/test/app/src/main/res/layout/product_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ShopeeApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ShopeeApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ShopeeApp/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/ShopeeApp/app/src/main/res/layout/login.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/account_settings.xml" value="0.264" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/activity_account_info.xml" value="0.264" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/activity_admin_discount.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/activity_admin_discout.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/activity_admin_product.xml" value="0.264" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/activity_admin_product_type.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/activity_admin_role.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/activity_admin_show_pro_img.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/activity_admin_store.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/activity_email_password.xml" value="0.264" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/activity_phone_book.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/activity_product_image.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/activity_search.xml" value="0.264" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/activity_show_ad_pro_type.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/activity_show_ad_product.xml" value="0.24010416666666667" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/activity_show_ad_role.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/activity_show_ad_store.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/activity_show_discount.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/activity_store.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/admin_discount_listview.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/admin_productType_listview.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/admin_productimg_listview.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/admin_role_listview.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/admin_store_listview.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/bill_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/bill_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/cart_detail.xml" value="0.264" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/cart_item.xml" value="0.176" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/dropdown_spinner.xml" value="0.15052083333333333" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/feature_change_language.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/feature_help.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/forgot_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/fragment_cart.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/login.xml" value="0.264" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/menu_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/notify_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/product.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/product_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/product_item.xml" value="0.17135416666666667" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/row_phonebook.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeAppAndroid/shoppeApp/app/src/main/res/layout/signup.xml" value="0.17135416666666667" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/activity_admin_discount.xml" value="0.25" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/activity_admin_product.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/activity_admin_product_type.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/activity_admin_role.xml" value="0.25" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/activity_admin_show_pro_img.xml" value="0.25" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/activity_admin_store.xml" value="0.25" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/activity_product_image.xml" value="0.25" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/activity_show_ad_discount.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/activity_show_ad_pro_type.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/activity_show_ad_product.xml" value="0.25" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/activity_show_ad_store.xml" value="0.25" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/admin_discount_listview.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/admin_product_listview.xml" value="0.25" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/admin_productimg_listview.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/admin_producttype_listview.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/admin_store_listview.xml" value="0.264" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/fragment_discount.xml" value="0.25" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/menu_item.xml" value="0.25" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/notify_item.xml" value="0.25" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/product.xml" value="0.25" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/product_detail.xml" value="0.25" />
+        <entry key="..\:/Study/Android/CuoiKi/Data/test/app/src/main/res/layout/product_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Study/Android/CuoiKi/test/app/src/main/res/layout/activity_static.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

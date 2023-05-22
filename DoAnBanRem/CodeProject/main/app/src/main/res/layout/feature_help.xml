@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.Help">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/light_mode"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/topNavbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#448aff"
+
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageButton
+                android:id="@+id/btnBack_help"
+                android:layout_width="25dp"
+                android:layout_height="32dp"
+                android:layout_marginVertical="10dp"
+                android:layout_marginLeft="15dp"
+                android:background="@drawable/arrow_back" />
+
+            <TextView
+                android:id="@+id/txtHelp"
+                android:layout_width="match_parent"
+                android:layout_height="32dp"
+                android:layout_marginVertical="10dp"
+                android:layout_marginRight="20dp"
+                android:layout_weight="20"
+                android:ems="10"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/help"
+                android:textColor="#ffffff"
+                android:textColorHint="#ffffff"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <WebView
+            android:id="@+id/webHelp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="10" />
+
+    </LinearLayout>
+</LinearLayout>

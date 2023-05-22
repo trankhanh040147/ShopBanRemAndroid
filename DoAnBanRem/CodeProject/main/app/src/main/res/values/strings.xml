@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name" translatable="false">ShoppeApp</string>
+    <string name="notifications">Notifications</string>
+    <string name="account">Account</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email" translatable="false">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Not log in yet</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="cart">Cart</string>
+
+    <!-- Login -->
+    <string name="txtPassword">Password</string>
+    <string name="txtUsername">Username</string>
+    <string name="txtLoginForm">Login</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnForgotPassword">Forgot password?</string>
+    <string name="txtSignup">Sign up</string>
+    <string name="btnFacebook" translatable="false">Facebook</string>
+    <string name="btnGoogle" translatable="false">Google</string>
+    <string name="btnZalo" translatable="false">Zalo</string>
+    <string name="btnSMS">Login via SMS</string>
+    <string name="txtOr">Or</string>
+    <string name="txtDontHaveAccount">Don\'t have an account yet?</string>
+    <string name="txtLoginWith">Login with</string>
+    <string name="txtForgotPassword">Forgot password</string>
+    <string name="btnGetPassword">Get a password</string>
+
+    <!-- Sign up -->
+    <string name="txtSignupForm">Sign up</string>
+    <string name="txtFullname">Fullname</string>
+    <string name="txtEmail" translatable="false">Email</string>
+    <string name="txtPhone">Phone number</string>
+    <string name="btnSignup">Sign up</string>
+    <string name="txtSignin">Sign in</string>
+    <string name="txtHaveAccount">Already have an account?</string>
+    <string name="txtConfirmPassword">Confirm password</string>
+    <string name="btnChooseImage">Choose image</string>
+    <string name="fullName">Fullname</string>
+    <string name="username" translatable="false">\@Username</string>
+    <string name="txtSearch">Search</string>
+    <string name="btnTakePhoto">Take a photo</string>
+
+    <string name="help">Help</string>
+    <string name="help_url" translatable="false">https://github.com/trankhanh040147?tab=repositories</string>
+    <string name="change_language">Change language</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="details">Details</string>
+    <string name="product">Product</string>
+    <string name="discount">Discount</string>
+    <string name="addCart">Add to cart</string>
+    <string name="search_results">Search results</string>
+    <string name="product_s_were_found">product(s) were found!</string>
+    <string name="quantity">"Quantity "</string>
+    <string name="cart_detail">Cart detail</string>
+    <string name="view_cart">View cart</string>
+    <string name="total_price">"Total price: "</string>
+    <string name="price">"Price "</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="sex">Sex</string>
+    <string name="clothes">Clothes</string>
+    <string name="food">Foods</string>
+    <string name="fruit">Fruits</string>
+    <string name="drink">Drinks</string>
+    <string name="electronic">Electronic</string>
+    <string name="fresh_food">FreshFood</string>
+    <string name="others">Others</string>
+    <string name="all_types">All types</string>
+    <string name="address">Address</string>
+    <string name="txtLogout">Logout</string>
+    <string name="pay_now">Pay now</string>
+    <string name="delivery_address">Delivery address</string>
+    <string name="order">Order</string>
+    <string name="bill_history">Bill History</string>
+    <string name="view_all_bills_history">View all bills history</string>
+    <string name="time">Time</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="email_verified">Email Verified</string>
+    <string name="message_forgot_password">Please visit email %s to create new password.</string>
+    <string name="update_account_information">Update account information</string>
+    <string name="account_information">Account Information</string>
+    <string name="update">Update</string>
+    <string name="cancel_order">Cancel</string>
+    <string name="no_more_notifications">No more notifications</string>
+    <string name="no_more_carts">No more carts</string>
+    <string name="no_more_bills_history">No more bills history</string>
+    <string name="bill_status">Bill status</string>
+    <string name="paypal_string" translatable="false">Thanh toán với PayPal</string>
+
+</resources>

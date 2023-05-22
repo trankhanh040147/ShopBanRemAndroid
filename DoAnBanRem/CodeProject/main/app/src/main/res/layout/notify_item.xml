@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/notifyLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:orientation="horizontal"
+    android:paddingTop="10dp"
+    android:background="#f3e5f5"
+    android:paddingBottom="10dp">
+
+    <ImageView
+        android:id="@+id/notify_img"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="15dp" />
+
+    <TextView
+        android:id="@+id/notify_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:text="Short detail"
+        android:textSize="18sp" />
+
+    <ImageView
+        android:id="@+id/dismissNotification"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:background="@drawable/delete" />
+
+</LinearLayout>
