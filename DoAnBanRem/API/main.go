@@ -13,7 +13,7 @@ import (
 
 func main() {
 	// Declare DB
-	dsn := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?charset=utf8mb4&parseTime=True&loc=Local", "root", "109339Lam@",
+	dsn := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?charset=utf8mb4&parseTime=True&loc=Local", "root", "040147",
 		"localhost", "3306", "pandora")
 	//dsn := fmt.Sprintf("%s:%s@tcp(%s)/%s?charset=utf8mb4&parseTime=True&loc=Local",
 	//	cfg.Mysql.User, cfg.Mysql.Password, cfg.Mysql.ContainerName, cfg.Mysql.DBName)
